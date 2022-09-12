@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NCS_NguyenManhNamT2009A:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>NCS_NguyenManhNamT2009A</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="NCS_NguyenManhNamT2009A-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="NCS_NguyenManhNamT2009A:war exploded" />
+    </root>
+  </artifact>
+</component>
